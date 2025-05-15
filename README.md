@@ -29,7 +29,7 @@ Ideas, Owner, Side Coder - <a href="https://github.com/jefisalreadytkn">sharkyyd
 Community, Co-Owner - <a href="https://discord.gg/invite/RdR5vq7HNv">The Sharks Studios</a>
 
 <center>
-<img src="The Sharks Studios Logo S4.png" herf="https://discord.gg/RdR5vq7HNv" alt="tss log">
+<img src="The Sharks Studios Logo S4.png" herf="https://discord.gg/RdR5vq7HNv" alt="tss logo">
 </center>
 
 <hr>
