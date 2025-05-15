@@ -7,3 +7,13 @@
     border-radius: 13px;
     width: auto;
 }
+
+.heading-text {
+    color: rgb(165, 191, 214);
+    size: 135%;
+}
+
+.p-bb {
+    color: #494343;
+    size: 100%;
+}
