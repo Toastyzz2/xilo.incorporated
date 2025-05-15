@@ -12,7 +12,7 @@ Kinda like <a href="https://breadsystems.neocities.org">Bread Systems</a> but Be
 
 <br>
 
-<img src="Xilo. Inc Website.png" alt="Logo or smt">
+<img src="Xilo. Inc Website.png" herf="https://toastyzz2.github.io/xilo.incorporated/" alt="Logo or smt">
 
 <hr>
 
@@ -29,7 +29,7 @@ Ideas, Owner, Side Coder - <a href="https://github.com/jefisalreadytkn">sharkyyd
 Community, Co-Owner - <a href="https://discord.gg/invite/RdR5vq7HNv">The Sharks Studios</a>
 
 <center>
-<img src="The Sharks Studios Logo S4.png" alt="tss logo">
+<img src="The Sharks Studios Logo S4.png" herf="https://discord.gg/RdR5vq7HNv" alt="tss logo">
 </center>
 
 <hr>
