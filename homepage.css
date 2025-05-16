@@ -13,11 +13,13 @@
     color: rgb(165, 191, 214);
     size: 135%;
     padding: 50;
+    padding-left: 145px;
 }
 
 .heading-p {
-    color: white;
+    color: rgb(68, 64, 64);
     size: 115%;
+    padding-left: 145px;
 }
 
 .p-bb {
@@ -30,9 +32,21 @@ p {
 }
 
 .button {
-    background-color: rgb(118, 175, 221);
-    text-align: center;
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 20px;
+    background-color: #ccd3ff;
+    width: 250px;
     border-radius: 10px;
+    padding: 10px;
+    text-align: center;
+    margin: 20px 0;
+    transition: background-color 0.3s ease;
+}
+
+.button:hover {
+    background-color: #8994aa;
+    color: #ffffff;
 }
 
 .heading-h1 {
@@ -40,14 +54,14 @@ p {
 }
 
 .homepage-div {
-    background-color: #242020;
+    background-color: #5f5252;
     outline-width: 5px;
     outline-color: #6d6565;
     padding-right: 25px;
     padding-left: 25px;
     padding-bottom: 25px;
-    width: auto;
-    height: auto;
+    width: 120%;
+    height: 120%;
     border-radius: 10px;
 }
 
