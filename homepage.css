@@ -22,6 +22,12 @@
     padding-left: 145px;
 }
 
+.heading-h1 {
+    color: rgb(68, 64, 64);
+    size: 115%;
+    padding-left: 145px;
+}
+
 .p-bb {
     color: #494343;
     size: 100%;
@@ -51,17 +57,19 @@ p {
 
 .heading-h1 {
     color: rgb(126, 175, 221);
+    padding-left: 145px;
 }
 
+
 .homepage-div {
-    background-color: #5f5252;
+    background-color: #2f2f2f;
     outline-width: 5px;
     outline-color: #6d6565;
     padding-right: 25px;
     padding-left: 25px;
     padding-bottom: 25px;
-    width: 120%;
-    height: 120%;
+    width: 50%;
+    height: 100%;
     border-radius: 10px;
 }
 
@@ -70,11 +78,11 @@ p {
 }
 
 .h1-homepage-div {
-    size: 35px;
+    size: 100%;
     color: white;
 }
 
 .p-homepage-div {
-    size: 15px;
+    size: 50%;
     color: white;
 }
