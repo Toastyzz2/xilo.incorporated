@@ -17,3 +17,7 @@
     color: #494343;
     size: 100%;
 }
+
+.navbar-image {
+    float: right;
+}
