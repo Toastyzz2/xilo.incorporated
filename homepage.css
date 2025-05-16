@@ -12,6 +12,12 @@
 .heading-text {
     color: rgb(165, 191, 214);
     size: 135%;
+    padding: 50;
+}
+
+.heading-p {
+    color: white;
+    size: 115%;
 }
 
 .p-bb {
@@ -19,29 +25,42 @@
     size: 100%;
 }
 
-.navbar-image {
-    float: right;
+p {
+    color: white;
 }
 
 .button {
     background-color: rgb(118, 175, 221);
     text-align: center;
-}
-
-.login-div-box {
-    width: 50%;
-    height: 120%;
-    background-color: #837878;
     border-radius: 10px;
-    justify-content: center;
 }
 
-.login-heading {
+.heading-h1 {
+    color: rgb(126, 175, 221);
+}
+
+.homepage-div {
+    background-color: #242020;
+    outline-width: 5px;
+    outline-color: #6d6565;
+    padding-right: 25px;
+    padding-left: 25px;
+    padding-bottom: 25px;
+    width: auto;
+    height: auto;
+    border-radius: 10px;
+}
+
+.image-homepage-div {
+    border-radius: 10px;
+}
+
+.h1-homepage-div {
+    size: 35px;
     color: white;
-
 }
 
-.login-input-box {
-    background-color: azure;
-    border-radius: 10px;
+.p-homepage-div {
+    size: 15px;
+    color: white;
 }
