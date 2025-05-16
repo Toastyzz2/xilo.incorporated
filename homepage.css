@@ -1,5 +1,6 @@
  body {
     background-color: rgb(34, 32, 32);
+    font-family: Cal Sans, sans-serif;
     }
 
 .navbar-div {
@@ -20,4 +21,26 @@
 
 .navbar-image {
     float: right;
+}
+
+.button {
+    background-color: rgb(118, 175, 221);
+    text-align: center;
+}
+
+.login-div-box {
+    width: 150%;
+    height: 120%;
+    background-color: #837878;
+    border-radius: 10px;
+}
+
+.login-heading {
+    color: white;
+
+}
+
+.login-input-box {
+    background-color: azure;
+    border-radius: 10px;
 }
