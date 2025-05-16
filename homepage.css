@@ -59,13 +59,6 @@
   --bs-btn-active-border-color: #003694;
 }
 
-main {
-  min-height: 100vh;
-  background-image: url("../images/background.png");
-  background-size: cover;
-  background-position: center;
-}
-
 main nav {
   box-shadow: 0px -8px 22px 4px rgba(0, 77, 165, 0.45);
   background-color: rgb(253 253 253 / 43%) !important;
