@@ -13,19 +13,17 @@
     color: rgb(165, 191, 214);
     size: 135%;
     padding: 50;
-    padding-left: 145px;
 }
 
 .heading-p {
     color: rgb(68, 64, 64);
     size: 115%;
-    padding-left: 145px;
+    
 }
 
 .heading-h1 {
     color: rgb(68, 64, 64);
     size: 115%;
-    padding-left: 145px;
 }
 
 .p-bb {
@@ -68,7 +66,7 @@ p {
     padding-right: 25px;
     padding-left: 25px;
     padding-bottom: 25px;
-    width: 50%;
+    width: 30%;
     height: 100%;
     border-radius: 10px;
 }
